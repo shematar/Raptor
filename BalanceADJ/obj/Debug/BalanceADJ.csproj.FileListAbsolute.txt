@@ -1,0 +1,395 @@
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.exe
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.pdb
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.pdb
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+J:\SOFT PJ\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - PLC\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+H:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Kind.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Kind.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\SOFT\2020\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Kind.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\bin\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\bin\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0718\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\0722\BalanceADJ - TXT\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0729\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0730\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.exe
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\bin\Debug\BalanceADJ.pdb
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+G:\SOFT PJ\RaptorBalance\BalanceADJ - TXT - 0807\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\bin\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0809\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\bin\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\bin\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0811\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.exe
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\bin\Debug\BalanceADJ.pdb
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+E:\Raptor\SOFT\BalanceADJ - TXT - 0812\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0814\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0910\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\RaptorBalance\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.exe
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\bin\Debug\BalanceADJ.pdb
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.csprojResolveAssemblyReference.cache
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
