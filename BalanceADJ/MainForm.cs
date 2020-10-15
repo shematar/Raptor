@@ -1039,6 +1039,7 @@ namespace BalanceADJ
             {
                 strLogLine = strLogLine.Insert(0, "OK,");
             }
+
             strLogLine += strRpm + "," + strVibAgl + "," + strVibAmt + "," + strCorAgl + "," + strCormas + ",";
         }
 
