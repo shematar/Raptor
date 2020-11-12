@@ -1039,7 +1039,7 @@ namespace BalanceADJ
             {
                 strLogLine = strLogLine.Insert(0, "OK,");
             }
-            
+            //20201112
             strLogLine += strRpm + "," + strVibAgl + "," + strVibAmt + "," + strCorAgl + "," + strCormas + ",";
         }
 
