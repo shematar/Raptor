@@ -393,3 +393,18 @@ D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\Balance
 D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
 D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
 D:\SOFT PROJECT\Raptor\SOFT\BalanceADJ - TXT - 0924\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.Cache
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\bin\Debug\BalanceADJ.exe.config
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\bin\Debug\BalanceADJ.exe
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\bin\Debug\BalanceADJ.pdb
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.csprojAssemblyReference.cache
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.EditKind.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.MainForm.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.form_MudBarcode.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.NewKind.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.form_ProductBarcode.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.Properties.Resources.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.Setting.resources
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.csproj.GenerateResource.cache
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.csproj.CoreCompileInputs.cache
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.exe
+C:\Users\LIY\Source\Repos\Raptor\BalanceADJ\obj\Debug\BalanceADJ.pdb

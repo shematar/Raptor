@@ -892,7 +892,7 @@ namespace BalanceADJ
         //动平衡检查
         private void cbx_Balance_CheckedChanged(object sender, EventArgs e)
         {
-            if (cbx_Balance.Checked)
+            if (cbx_Balance.Checked)//选择动平衡检查
             {
                 b_IsManualBlance = true;
                 bt_Start.Enabled = true;
