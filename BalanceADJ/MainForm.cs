@@ -2173,6 +2173,7 @@ namespace BalanceADJ
         //按钮-面平衡
         private void bt_ReInit_Click(object sender, EventArgs e)
         {
+          
             StartFaceChk();             //开始面平衡检测
             Thread.Sleep(200);
             timer_wave.Start();         //启动定时器检测是否检测完成 

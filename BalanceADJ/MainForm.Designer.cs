@@ -62,13 +62,13 @@
             this.label8 = new System.Windows.Forms.Label();
             this.lb_FcMin = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cbx_MasterChk = new System.Windows.Forms.CheckBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.cbx_Balance = new System.Windows.Forms.CheckBox();
             this.cbx_FaceChk = new System.Windows.Forms.CheckBox();
             this.cbx_IsManul = new System.Windows.Forms.CheckBox();
             this.button1 = new System.Windows.Forms.Button();
             this.timer_Face = new System.Windows.Forms.Timer(this.components);
-            this.cbx_MasterChk = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Balance)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cht_FaceWave)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar_Vol)).BeginInit();
@@ -87,7 +87,7 @@
             this.CorAngl,
             this.CorMass});
             this.dgv_Balance.Location = new System.Drawing.Point(21, 62);
-            this.dgv_Balance.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgv_Balance.Margin = new System.Windows.Forms.Padding(4);
             this.dgv_Balance.Name = "dgv_Balance";
             this.dgv_Balance.RowTemplate.Height = 23;
             this.dgv_Balance.Size = new System.Drawing.Size(860, 130);
@@ -133,7 +133,7 @@
             // 
             this.cht_FaceWave.BackColor = System.Drawing.Color.Black;
             this.cht_FaceWave.Location = new System.Drawing.Point(21, 256);
-            this.cht_FaceWave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cht_FaceWave.Margin = new System.Windows.Forms.Padding(4);
             this.cht_FaceWave.Name = "cht_FaceWave";
             this.cht_FaceWave.Size = new System.Drawing.Size(1332, 370);
             this.cht_FaceWave.TabIndex = 1;
@@ -142,7 +142,7 @@
             // bt_Start
             // 
             this.bt_Start.Location = new System.Drawing.Point(356, 195);
-            this.bt_Start.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bt_Start.Margin = new System.Windows.Forms.Padding(4);
             this.bt_Start.Name = "bt_Start";
             this.bt_Start.Size = new System.Drawing.Size(100, 29);
             this.bt_Start.TabIndex = 6;
@@ -153,7 +153,7 @@
             // bt_Setting
             // 
             this.bt_Setting.Location = new System.Drawing.Point(248, 195);
-            this.bt_Setting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bt_Setting.Margin = new System.Windows.Forms.Padding(4);
             this.bt_Setting.Name = "bt_Setting";
             this.bt_Setting.Size = new System.Drawing.Size(100, 29);
             this.bt_Setting.TabIndex = 7;
@@ -179,7 +179,7 @@
             // trackBar_Vol
             // 
             this.trackBar_Vol.Location = new System.Drawing.Point(37, 51);
-            this.trackBar_Vol.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.trackBar_Vol.Margin = new System.Windows.Forms.Padding(4);
             this.trackBar_Vol.Maximum = 10000;
             this.trackBar_Vol.Name = "trackBar_Vol";
             this.trackBar_Vol.Orientation = System.Windows.Forms.Orientation.Vertical;
@@ -191,7 +191,7 @@
             // txtBox_message
             // 
             this.txtBox_message.Location = new System.Drawing.Point(889, 642);
-            this.txtBox_message.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtBox_message.Margin = new System.Windows.Forms.Padding(4);
             this.txtBox_message.MaxLength = 0;
             this.txtBox_message.Multiline = true;
             this.txtBox_message.Name = "txtBox_message";
@@ -227,7 +227,7 @@
             // bt_test
             // 
             this.bt_test.Location = new System.Drawing.Point(773, 26);
-            this.bt_test.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bt_test.Margin = new System.Windows.Forms.Padding(4);
             this.bt_test.Name = "bt_test";
             this.bt_test.Size = new System.Drawing.Size(100, 29);
             this.bt_test.TabIndex = 13;
@@ -239,7 +239,7 @@
             // bt_Power
             // 
             this.bt_Power.Location = new System.Drawing.Point(557, 26);
-            this.bt_Power.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bt_Power.Margin = new System.Windows.Forms.Padding(4);
             this.bt_Power.Name = "bt_Power";
             this.bt_Power.Size = new System.Drawing.Size(100, 29);
             this.bt_Power.TabIndex = 14;
@@ -321,7 +321,7 @@
             // 
             this.cb_HighSpeed.AutoSize = true;
             this.cb_HighSpeed.Location = new System.Drawing.Point(33, 204);
-            this.cb_HighSpeed.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cb_HighSpeed.Margin = new System.Windows.Forms.Padding(4);
             this.cb_HighSpeed.Name = "cb_HighSpeed";
             this.cb_HighSpeed.Size = new System.Drawing.Size(59, 19);
             this.cb_HighSpeed.TabIndex = 103;
@@ -331,7 +331,7 @@
             // bt_Init
             // 
             this.bt_Init.Location = new System.Drawing.Point(449, 26);
-            this.bt_Init.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bt_Init.Margin = new System.Windows.Forms.Padding(4);
             this.bt_Init.Name = "bt_Init";
             this.bt_Init.Size = new System.Drawing.Size(100, 29);
             this.bt_Init.TabIndex = 104;
@@ -418,12 +418,23 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.groupBox2);
             this.groupBox1.Location = new System.Drawing.Point(889, 15);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(464, 234);
             this.groupBox1.TabIndex = 107;
             this.groupBox1.TabStop = false;
+            // 
+            // cbx_MasterChk
+            // 
+            this.cbx_MasterChk.AutoSize = true;
+            this.cbx_MasterChk.Location = new System.Drawing.Point(147, 201);
+            this.cbx_MasterChk.Name = "cbx_MasterChk";
+            this.cbx_MasterChk.Size = new System.Drawing.Size(59, 19);
+            this.cbx_MasterChk.TabIndex = 110;
+            this.cbx_MasterChk.Text = "点检";
+            this.cbx_MasterChk.UseVisualStyleBackColor = true;
+            this.cbx_MasterChk.CheckedChanged += new System.EventHandler(this.cbx_MasterChk_CheckedChanged);
             // 
             // groupBox2
             // 
@@ -431,9 +442,9 @@
             this.groupBox2.Controls.Add(this.cbx_FaceChk);
             this.groupBox2.Controls.Add(this.cbx_IsManul);
             this.groupBox2.Location = new System.Drawing.Point(127, 28);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(128, 149);
             this.groupBox2.TabIndex = 109;
             this.groupBox2.TabStop = false;
@@ -443,7 +454,7 @@
             this.cbx_Balance.AutoSize = true;
             this.cbx_Balance.Enabled = false;
             this.cbx_Balance.Location = new System.Drawing.Point(20, 125);
-            this.cbx_Balance.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbx_Balance.Margin = new System.Windows.Forms.Padding(4);
             this.cbx_Balance.Name = "cbx_Balance";
             this.cbx_Balance.Size = new System.Drawing.Size(74, 19);
             this.cbx_Balance.TabIndex = 108;
@@ -456,7 +467,7 @@
             this.cbx_FaceChk.AutoSize = true;
             this.cbx_FaceChk.Enabled = false;
             this.cbx_FaceChk.Location = new System.Drawing.Point(20, 74);
-            this.cbx_FaceChk.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbx_FaceChk.Margin = new System.Windows.Forms.Padding(4);
             this.cbx_FaceChk.Name = "cbx_FaceChk";
             this.cbx_FaceChk.Size = new System.Drawing.Size(74, 19);
             this.cbx_FaceChk.TabIndex = 107;
@@ -468,7 +479,7 @@
             // 
             this.cbx_IsManul.AutoSize = true;
             this.cbx_IsManul.Location = new System.Drawing.Point(20, 22);
-            this.cbx_IsManul.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbx_IsManul.Margin = new System.Windows.Forms.Padding(4);
             this.cbx_IsManul.Name = "cbx_IsManul";
             this.cbx_IsManul.Size = new System.Drawing.Size(59, 19);
             this.cbx_IsManul.TabIndex = 106;
@@ -479,7 +490,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(665, 26);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 29);
             this.button1.TabIndex = 105;
@@ -492,17 +503,6 @@
             // 
             this.timer_Face.Interval = 8000;
             this.timer_Face.Tick += new System.EventHandler(this.timer_Face_Tick);
-            // 
-            // cbx_MasterChk
-            // 
-            this.cbx_MasterChk.AutoSize = true;
-            this.cbx_MasterChk.Location = new System.Drawing.Point(147, 201);
-            this.cbx_MasterChk.Name = "cbx_MasterChk";
-            this.cbx_MasterChk.Size = new System.Drawing.Size(59, 19);
-            this.cbx_MasterChk.TabIndex = 110;
-            this.cbx_MasterChk.Text = "点检";
-            this.cbx_MasterChk.UseVisualStyleBackColor = true;
-            this.cbx_MasterChk.CheckedChanged += new System.EventHandler(this.cbx_MasterChk_CheckedChanged);
             // 
             // MainForm
             // 
@@ -529,7 +529,7 @@
             this.Controls.Add(this.cht_FaceWave);
             this.Controls.Add(this.dgv_Balance);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Balance ADJ";
